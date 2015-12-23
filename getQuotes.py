@@ -16,8 +16,8 @@ import urllib
 from bs4 import BeautifulSoup
 
 
-CONSUMER_KEY = "p2pwj3WQa62EwELBTzTQ"
-CONSUMER_SECRET ="d8bEXGOBhuGN0KybFpxJmOKdVU0FIPKJmhqZXsgU8w"
+CONSUMER_KEY = "p2pwj3WQa62EwELBTz"
+CONSUMER_SECRET ="d8bEXGOBhuGN0KybFpxJmOKdVU0FIPKJmhqZXsgU"
 
 gc = client.GoodreadsClient(CONSUMER_KEY,CONSUMER_SECRET)
 
